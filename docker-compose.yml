@@ -1,0 +1,29 @@
+version: "3.7"
+services:
+  mongodb:
+    image: "mongo:4.2.8"
+    container_name: "db_p_sgbd"
+    ports:
+     - "27017:27017"
+    volumes:
+     - ./../db/db-4.2.8:/data/db
+    networks: 
+     - p_sgbd
+  app:
+    container_name: "app_p_sgdb"
+    build:
+      context: .
+      target: development
+    ports:
+     - "5000:5000"
+    volumes:
+     - ./:/usr/src/app
+     - /usr/src/app/node_modules
+    networks: 
+     - p_sgbd
+    command: nodemon server.js 
+    depends_on:
+     - mongodb
+
+networks: 
+  p_sgbd:
