@@ -9,3 +9,4 @@
 
  - [Vidéo 1 - Initialisationde l'API](https://www.youtube.com/watch?v=N667hnG3RJc)
  - [Vidéo 2 - Création du CRUD pour la partie users](https://www.youtube.com/watch?v=Fvs6VyIesWc)
+ - [Vidéo 3 - Création du CRUD pour la partie addresses](https://www.youtube.com/watch?v=zVnLOPbDHus)
