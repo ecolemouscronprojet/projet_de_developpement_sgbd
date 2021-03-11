@@ -11,3 +11,4 @@
  - [Vidéo 2 - Création du CRUD pour la partie users](https://www.youtube.com/watch?v=Fvs6VyIesWc)
  - [Vidéo 3 - Création du CRUD pour la partie addresses](https://www.youtube.com/watch?v=zVnLOPbDHus)
  - [Vidéo 4 - Création du Schema validation](https://www.youtube.com/watch?v=LIEzrenz_Ok)
+ - [Vidéo 5 - Les aggrégations](https://www.youtube.com/watch?v=0XwyBBiIXtE)
