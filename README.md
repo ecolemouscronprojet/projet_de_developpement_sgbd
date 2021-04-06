@@ -13,3 +13,4 @@
  - [Vidéo 4 - Création du Schema validation](https://www.youtube.com/watch?v=LIEzrenz_Ok)
  - [Vidéo 4 BIS - Correction du Schema validation addresses](https://www.youtube.com/watch?v=ReKJu8_t9KA)
  - [Vidéo 5 - Les aggrégations](https://www.youtube.com/watch?v=0XwyBBiIXtE)
+ - [Vidéo 7 - Sécuriser l'API](https://www.youtube.com/watch?v=Vh-06zJE0Jo)
